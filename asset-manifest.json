@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https//dista-afk.github.io/Tugas_UAS_Web/static/css/main.3370e1de.css",
-    "main.js": "/https//dista-afk.github.io/Tugas_UAS_Web/static/js/main.aa0ac753.js",
+    "main.js": "/https//dista-afk.github.io/Tugas_UAS_Web/static/js/main.2a440c97.js",
     "static/media/product.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/product.cec0dd29fd0bee8cc2f6542953232179.svg",
     "static/media/coca-cola.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/coca-cola.965dc11836880f826ff9bbcc0b112b92.svg",
     "static/media/google.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/google.24beac8d1b17b6af70e78fe7e56896f0.svg",
@@ -16,8 +16,8 @@
     "static/media/image1.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/image1.4e0ccc01345a3be7805b900127dfe5be.svg",
     "static/media/logo.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/logo.f5e0a1160701a9473042d46ad25c927d.svg",
     "static/media/bg.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/bg.f64d9f24b81fbdccd03d.svg",
-    "index.html": "/https//dista-afk.github.io/Tugas_UAS_Web/index.html",
     "static/media/twitter.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/twitter.457be4eb34ddf25a54811f6184b9ee98.svg",
+    "index.html": "/https//dista-afk.github.io/Tugas_UAS_Web/index.html",
     "static/media/icon2.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/icon2.25b1f94087bd23f825d1d66c30e6e76e.svg",
     "static/media/icon3.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/icon3.0be458fcf41948981c27c740707b5d94.svg",
     "static/media/icon1.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/icon1.b20cada9e90d0d074a1d6f16f9d1ae05.svg",
@@ -25,10 +25,10 @@
     "static/media/arrow-right.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/arrow-right.98fec310f4a0831472756a8a7c5055f5.svg",
     "static/media/arrow.svg": "/https//dista-afk.github.io/Tugas_UAS_Web/static/media/arrow.4b4cc4449bb20eb4976f621789ffded0.svg",
     "main.3370e1de.css.map": "/https//dista-afk.github.io/Tugas_UAS_Web/static/css/main.3370e1de.css.map",
-    "main.aa0ac753.js.map": "/https//dista-afk.github.io/Tugas_UAS_Web/static/js/main.aa0ac753.js.map"
+    "main.2a440c97.js.map": "/https//dista-afk.github.io/Tugas_UAS_Web/static/js/main.2a440c97.js.map"
   },
   "entrypoints": [
     "static/css/main.3370e1de.css",
-    "static/js/main.aa0ac753.js"
+    "static/js/main.2a440c97.js"
   ]
 }
